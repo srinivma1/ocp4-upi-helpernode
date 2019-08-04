@@ -298,6 +298,9 @@ Once Approved; finish up the install process
 ```
 openshift-install wait-for install-complete 
 ```
+
+![openshift_projects](images/openshift_projects.png)
+![ocplogin](images/ocplogin.png)
 ![ocp4_screenshot](images/ocp4_screenshot.png)
 
 ## Upgrade
