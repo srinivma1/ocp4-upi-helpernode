@@ -4,6 +4,8 @@ This quickstart will get you up and running on `libvirt`. This should work on ot
 
 > **NOTE** If you want to use static ips follow [this guide](qs-static.md)
 
+Use packet.net to create bare metal server. I used c2.medium.x86 in Amsterdam region to create bare metal server.
+
 To start login to your virtualization server / hypervisor
 
 ```
