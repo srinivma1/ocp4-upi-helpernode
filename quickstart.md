@@ -298,7 +298,7 @@ Once Approved; finish up the install process
 ```
 openshift-install wait-for install-complete 
 ```
-images/Screenshot from 2019-08-04 12-21-44.png
+![pxe](images/Screenshot from 2019-08-04 12-21-44.png)
 
 ## Upgrade
 
